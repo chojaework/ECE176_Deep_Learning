@@ -1,1 +1,1 @@
-# ECE176_Deep_Learning
+# UCSD ECE176 Deep Learning
